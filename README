@@ -1,0 +1,11 @@
+Double linked list written in C;
+
+It contains the following functions:
+Add an item on the begining, on the end or an arbitrary position;
+Removes and item from the begining, end or an arbitrary position;
+Get the size of the list;
+Checks if is empty;
+
+More usage info on the list.h file
+
+This program if free and come with NO waranty;
